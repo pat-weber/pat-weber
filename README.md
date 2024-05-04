@@ -8,12 +8,11 @@ Minha primeira transição de carreira foi de autônoma para empresária, abrind
 Com intuito de incrementar meu próprio negócio e expandir minhas habilidades profissionais, estou estudando o curso de Ciência de Dados na <a href="https://tripleten.com">TripleTen Brasil</a>. 
 
 ###  Minhas Tecnologias
-Git • GitHub • Python • Anaconda
+Git • GitHub • Python • Anaconda • SQL
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,anaconda,SQL)](https://skillicons.dev)
 
 ###  Próximos estudos
-- SQL
 - Aprendizado de Máquina
 
 ###  Ferramentas do meu dia-a-dia
