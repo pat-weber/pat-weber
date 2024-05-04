@@ -10,7 +10,7 @@ Com intuito de incrementar meu próprio negócio e expandir minhas habilidades p
 ###  Minhas Tecnologias
 Git • GitHub • Python • Anaconda • SQL
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,anaconda,SQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,anaconda)](https://skillicons.dev)
 
 ###  Próximos estudos
 - Aprendizado de Máquina
