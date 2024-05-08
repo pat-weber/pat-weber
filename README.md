@@ -16,7 +16,7 @@ Git • GitHub • Python • Anaconda • SQL
 - Aprendizado de Máquina
 
 ###  Ferramentas do meu dia-a-dia
-- Colab
+- Google Colab
 - Notion
 - Visual Studio Code
   
