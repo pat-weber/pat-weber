@@ -16,9 +16,10 @@ Git • GitHub • Python • Anaconda • SQL
 - Aprendizado de Máquina
 
 ###  Ferramentas do meu dia-a-dia
-- Visual Studio Code
+- Colab
 - Notion
-
+- Visual Studio Code
+  
 ## Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-Patricia%20Weber-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patweber0/)](https://www.linkedin.com/in/patweber0)
